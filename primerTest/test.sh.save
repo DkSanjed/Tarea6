@@ -1,0 +1,7 @@
+#!/bin/bash
+# Este es nuestro primer progrma
+clear
+
+variable = ""
+echo "Hola Mundo"
+/home/sanjed/primerTest
